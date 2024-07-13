@@ -41,3 +41,8 @@ This project requires you to develop a website template viewer. The template vie
 
 * Submit a URL to a public github/gitlab repo
 * Make sure to include a readme to document any installation steps to run the project
+
+### Directions:
+1) Clone the repo using git clone 
+2) Run command: npm install
+3) To run the server, run: node server.js

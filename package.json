@@ -1,0 +1,16 @@
+{
+  "name": "filmstrip-view",
+  "version": "1.0.0",
+  "description": "This project requires you to develop a website template viewer. The template viewer is modeled after the filmstrip folder view in Windows Explorer.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
